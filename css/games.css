@@ -2396,7 +2396,7 @@ a {
 }
 
 .section.black {
-  background-color: #000;
+  background-color: #ffffff;
 }
 
 .section.background-lavender.padding-y-40 {
@@ -3369,9 +3369,7 @@ a {
   }
 }
 
-.background-black {
-  background-color: #ffffff;
-}
+
 
 .games-item-name {
   z-index: 1;
